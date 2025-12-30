@@ -7,11 +7,10 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um desenvolvedor focado em entregar soluções robustas e escaláveis. Com mais de **1000 commits** e **39 repositórios**, minha rotina é pautada por produtividade e aprendizado contínuo nas stacks de backend e frontend.
+Sou um desenvolvedor focado em entregar soluções robustas e escaláveis. Com mais de **1000 commits** e **39 repositórios**, minha rotina é pautada por produtividade e aprendizado contínuo.
 
 - ⚡ Atualmente focado em: **NestJS, Angular e Ecossistema Java**.
 - 🛠️ Experiência com: Microserviços, SQL (MySQL) e Arquitetura Limpa.
-- 📊 Valorizo código limpo e métricas de performance.
 
 ---
 
@@ -25,9 +24,6 @@ Sou um desenvolvedor focado em entregar soluções robustas e escaláveis. Com m
   <br>
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
@@ -39,18 +35,10 @@ Sou um desenvolvedor focado em entregar soluções robustas e escaláveis. Com m
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirleog&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
 </p>
 
-### 🐍 Atividade de Commits
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirleog/hirleog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirleog/hirleog/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hirleog/hirleog/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ### 📫 Conecte-se comigo
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-hirle-6072701b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/hirle.og/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:guilherme.hirle1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
