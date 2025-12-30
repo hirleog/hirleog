@@ -34,10 +34,10 @@ Sou um desenvolvedor focado em entregar soluções robustas e escaláveis. Com m
 
 ### 📊 Estatísticas de Produtividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirleog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirleog&layout=compact&langs_count=7&theme=dracula" />
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hirleog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirleog&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
+</p>
 
 ### 🐍 Atividade de Commits
 <picture>
